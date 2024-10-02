@@ -4,10 +4,13 @@ Welcome to the **Complete DSA Series** by **Shradha Ma'am**, where you'll dive d
 
 Explore the series, starting with the fundamentals of C++ and progressing into topics like Arrays, Binary Search, and more. This structured learning path will help you master DSA concepts step by step.
 
-![GitHub top language](https://img.shields.io/github/languages/top/your-repo-name?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-repo-name?style=flat-square)
+## 🎥 Course I Follow
 
----
+I am following this comprehensive YouTube playlist by Shradha Ma'am to strengthen my DSA skills. You can watch it here:
+
+- [DSA Complete Series Playlist](https://www.youtube.com/watch?v=VTLCoHnyACE&list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt)
+
+Make sure to follow along for in-depth explanations and step-by-step coding sessions.
 
 ## 🚀 Contents
 
@@ -41,9 +44,9 @@ For more in-depth notes and code snippets, check out the complete notebook on [N
 
 ---
 
-## 👩‍💻 How to Use this Repository
+### What's Added:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+- **YouTube Course Section**: A clear section to share the course link with a title and description.
+- **Engagement**: Reminded users to star the repository if they find it useful.
+
+This `README.md` is now more structured and easier for others to follow along with your learning journey.
