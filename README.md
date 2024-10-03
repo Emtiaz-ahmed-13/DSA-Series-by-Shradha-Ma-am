@@ -46,7 +46,4 @@ For more in-depth notes and code snippets, check out the complete notebook on [N
 
 ### What's Added:
 
-- **YouTube Course Section**: A clear section to share the course link with a title and description.
-- **Engagement**: Reminded users to star the repository if they find it useful.
-
 This `README.md` is now more structured and easier for others to follow along with your learning journey.
