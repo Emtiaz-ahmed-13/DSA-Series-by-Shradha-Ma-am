@@ -23,7 +23,6 @@ int binarySearchIterative(int arr[], int n, int target) {
 }
 
 
-
 int binarySearchRecursive(int arr[], int low, int high, int target) {
     if (low > high)
         return -1;  // Base case: target not found
