@@ -45,10 +45,8 @@ int allocateBooks(vector<int>& arr, int n, int m) {//O(logN+n)
             st = mid + 1; // Increase the max allowed pages
         }
     }
-
     return ans;
 }
-
 int main() {
     vector<int> arr = {2, 1, 3, 4}; // Pages in books
     int n = 4, m = 2;               // n = number of books, m = number of students
