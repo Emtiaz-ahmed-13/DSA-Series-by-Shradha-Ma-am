@@ -16,7 +16,6 @@ bool isValid(vector<int>& arr, int n, int m, int MaxAllowedPages) {//O(n)
             students++;
             pages = arr[i];
 
-            
         }
     }
     return students>m? false : true;
